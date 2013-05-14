@@ -1,0 +1,34 @@
+{
+    "name":         "Object Validator"
+  , "description":  "A validator for javascript objects"
+  , "version":      "0.0.1"
+  , "main":         "./lib/object-validator-bundle"
+  , "homepage":     ""
+  , "keywords": [
+        "CoffeeScript"
+    ]
+  , "authors": [
+        "Marco Bersani"
+    ]
+  , "repository": { 
+        "type": "git"
+      , "url":  ""
+    }
+  , "engine": { 
+      "node": ">=0.6"
+    }
+  , "scripts": { 
+        "test":   "cake test"
+    }
+  , "dependencies": {
+        "validator":       "*"
+  }
+  , "devDependencies": {
+        "coffee-script":  "1.2.x"
+      , "mocha":          "*"
+      , "docco":          "*"
+      , "colors":         "*"
+      , "expect.js":      "*"
+      , "uglify-js":      "*"
+    }
+}
