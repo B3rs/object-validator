@@ -3,16 +3,14 @@
   , "description":  "A validator for javascript objects"
   , "version":      "0.0.1"
   , "main":         "./lib/object-validator-bundle"
-  , "homepage":     ""
-  , "keywords": [
-        "CoffeeScript"
-    ]
+  , "private":      true
+  , "homepage":     "https://github.com/B3rs/object-validator"
   , "authors": [
         "Marco Bersani"
     ]
   , "repository": { 
         "type": "git"
-      , "url":  ""
+      , "url":  "git://github.com/B3rs/object-validator.git"
     }
   , "engine": { 
       "node": ">=0.6"

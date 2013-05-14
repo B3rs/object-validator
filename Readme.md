@@ -1,9 +1,10 @@
-Get going quickly on your next project.
+A simple object validator written in JavaScript
 
 **Getting Started**
 
-1. `git clone git://github.com/h4rry/CoffeeScript-Project-Template.git`
-1. `npm install`
+Not Implemented Yet
+
+1. `npm install object-validator`
 
 **Cakefile**
 
